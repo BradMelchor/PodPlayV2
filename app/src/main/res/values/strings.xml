@@ -2,6 +2,17 @@
   <string name="app_name">PodPlay</string>
   <string name="search_hint">Enter podcast search</string>
   <string name="search">Search</string>
-  <string name="subscribe">Subscribe</string>
   <string name="ok_button">OK</string>
+  <string name="subscribe">Subscribe</string>
+  <string name="subscribed_podcasts">Subscribed</string>
+  <string name="unsubscribe">Unsubscribe</string>
+  <string name="episode_notification_title">New episodes</string>
+  <string name="episode_notification_text">%1$d new episode(s) for %2$s</string>
+  <string name="pause">Pause</string>
+  <string name="play">Play</string>
+  <string name="episode_thumbnail">episode thumbnail</string>
+  <string name="replay_button">replay button</string>
+  <string name="skip_forward">skip forward</string>
+  <string name="_1x">1x</string>
+  <string name="_0_00">0:00</string>
 </resources>
